@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491587906478",
+    "project_id": "foundnlost-11ccf",
+    "storage_bucket": "foundnlost-11ccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491587906478:android:35648aabd725363712763f",
+        "android_client_info": {
+          "package_name": "com.example.foundnlost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491587906478-4gkp0ff5dk4hohr5dbm5vtg86f9tpvpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFFpHf-6Fx7NMyl-YKUeumrvowt2n5XJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491587906478-4gkp0ff5dk4hohr5dbm5vtg86f9tpvpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
